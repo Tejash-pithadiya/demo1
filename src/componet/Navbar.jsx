@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0 navbarnav">
             <li className="nav-item navitem">
-              <NavLink className={(e)=>{return e.isActive ? "activelink" : "nav-Link"}} to="/demo1/">HOME</NavLink>
+              <NavLink className={(e)=>{return e.isActive ? "activelink" : "nav-Link"}} to="/">HOME</NavLink>
             </li>
             <li className="nav-item navitem">
               <NavLink className={(e)=>{return e.isActive ? "activelink" : "nav-Link"}} to="/about-us">ABOUT US</NavLink>
