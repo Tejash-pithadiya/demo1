@@ -4,7 +4,7 @@ const VideoPlayer = () => {
     return (
         <center className="Videop">
             <div className="video-container">
-                <video controls autoPlay loop>
+                <video autoPlay loop>
                     <source src="img/Video1.mp4" type="video/mp4" />
                 </video>
             </div>
