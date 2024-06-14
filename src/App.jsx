@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter basename='/'>
+    <BrowserRouter basename='/demo1'>
       <Navbar/>
       <Routes>
       <Route path='/' element={<Home/>}/>
