@@ -15,7 +15,7 @@
 .nav-Link{
     text-decoration: none;  
     color: black;
-
+    
 }
 .navbarnav{
     font-family: 
@@ -24,10 +24,10 @@
     Arial
     sans-serif;
     font-weight: bold;
-
+    
 }
 .navitem{
-    padding: 0 10px;
+    padding: 5px 10px;
 }
 
 @media (max-width : 340px) {
