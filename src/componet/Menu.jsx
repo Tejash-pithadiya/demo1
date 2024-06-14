@@ -39,7 +39,7 @@ const Menu = () => {
         <section className="contact-us">
           <div className="contact-overlay">
             <div className="contact-content">
-              <h1>Our Menu 2</h1>
+              <h1>Our Menu</h1>
               <p>Home - Menu</p>
             </div>
           </div>
